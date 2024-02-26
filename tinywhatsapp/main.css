@@ -1,0 +1,69 @@
+/*Medium Size*/
+@media (max-width: 900px) {
+    div._1jJ70 {
+        flex-direction: row-reverse;
+    }
+    div._2Ts6i._3RGKj {
+        max-width: 30%;
+    }
+}
+
+/*Small Size*/
+@media (max-width: 700px) {
+    html[dir="ltr"] div._1-FMR {
+        padding-right: 0%;
+        padding-left: 1%;
+    }
+    div.message-in,
+    div.message-out {
+        align-items: center;
+    }
+    /* chat names */
+    div[class="_8nE1Y"] {
+        display: none;
+        padding: 0;
+    }
+    /* type here message*/
+    div.dsh4tgtl.e1gr2w1z.bsvz8e3l.hmy10g0s.cw3vfol9 {
+        display: none;
+    }
+    /* messages warning */
+    div.lhggkp7q.qq0sjtgm.jxacihee.c3x5l3r8.b9fczbqn.t35qvd06.m62443ks.rkxvyd19.c5h0bzs2.bze30y65.kao4egtt {
+        display: none;
+    }
+    div._2Ts6i._3RGKj {
+        max-width: 77px;
+    }
+    div.two._1jJ70 {
+        min-width: 100%;
+        min-height: 100%;
+    }
+    /* top box */
+    div._604FD {
+        display: none;
+    }
+    /* search bar */
+    div._3gYev {
+        display: none;
+    }
+    div._2QgSC {
+        flex-direction: row-reverse;
+    }
+    /* archive chat message */
+    div.qmxv8cnq.s9raicp8 {
+        display: none;
+    }
+    header.AmmtE {
+        display: none;
+    }
+    div._199zF._1LWrV {
+        flex-direction: column;
+        min-height: 70px;
+    }
+    div._8nE1Y._2GJfO {
+        height: 20px;
+    }
+    div.D5gwV {
+        margin-right: 0px;
+    }
+}

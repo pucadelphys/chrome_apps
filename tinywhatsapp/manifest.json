@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "tinywhatsapp",
+    "description": "Make whatsapp usefull when tiny",
+    "version": "0.1",
+    "icons": {
+            "16": "images/16px_sm.png",
+            "48": "images/48px_sm.png",
+            "128": "images/128px_sm.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "images/16px_sm.png",
+            "48": "images/48px_sm.png",
+            "128": "images/128px_sm.png"
+        }
+    },
+    "content_scripts": [{
+        "matches": ["https://web.whatsapp.com/"],
+        "css": ["main.css"]
+    }]
+}

@@ -1,0 +1,15 @@
+#time{
+    color: #c0c0c0;
+}
+.grid > a::after {
+    color: #c0c0c0;
+}
+input[type="text"] {
+    color: #c0c0c0;
+}
+::-webkit-input-placeholder {
+    color: #c0c0c0;
+}
+.search {
+    border-bottom: 1px solid #c0c0c0;
+}

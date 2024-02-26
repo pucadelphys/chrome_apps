@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Brave Theme",
+    "theme": {
+        "colors": {
+        "frame": [4,3,4],
+        "frame_inactive": [4,3,4],
+        "toolbar": [118,57,161],
+        "button_background": [192,192,192],
+        "toolbar_button_icon": [192,192,192],
+        "toolbar_text": [192,192,192],
+        "omnibox_background": [4,3,4],
+        "omnibox_text": [192,192,192]
+        }
+    }
+}
