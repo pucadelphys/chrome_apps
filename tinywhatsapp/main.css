@@ -1,11 +1,30 @@
+
 /*Medium Size*/
 @media (max-width: 900px) {
-    div._1jJ70 {
+/*     Controll the contacts pannel */
+    div.two._aigs {
         flex-direction: row-reverse;
-    }
-    div._2Ts6i._3RGKj {
-        max-width: 30%;
-    }
+        min-width: 0px;
+/*         max-width: 30%; */
+}
+html,body,#app{
+    width: 30%;
+}
+
+/* div._ak9p {
+    display: none;
+} */
+
+div.x1ky8ojb.x78zum5.x1q0g3np.x1a02dak.x2lah0s.x3pnbk8.xfex06f.xeuugli.x2lwn1j.x1nn3v0j.x1ykpatu.x1swvt13.x1pi30zi {
+    display: none;
+}
+
+span.x78zum5.x1c4vz4f.x2lah0s.xdl72j9.xdt5ytf {
+    display:none;
+}
+
+header.xa1v5g2.x1n2onr6.x9f619.x78zum5.x6s0dn4.xl56j7k.xbyj736.x5yr21d.x1ye3gou.xn6708d.x1acz5yr.xm81vs4.xu3j5b3.x1a0jr7w {
+    display: none;
 }
 
 /*Small Size*/
@@ -19,7 +38,7 @@
         align-items: center;
     }
     /* chat names */
-    div[class="_8nE1Y"] {
+    div[class="_ak8l"] {
         display: none;
         padding: 0;
     }
@@ -28,19 +47,22 @@
         display: none;
     }
     /* messages warning */
-    div.lhggkp7q.qq0sjtgm.jxacihee.c3x5l3r8.b9fczbqn.t35qvd06.m62443ks.rkxvyd19.c5h0bzs2.bze30y65.kao4egtt {
+    div.x9f619.x78zum5.x6s0dn4.xl56j7k.xcxhlts.xktsk01.x1fqp7bg.x1d52u69.x889kno.x178xt8z.x13fuv20.xyj1x25.xzwifym {
         display: none;
     }
-    div._2Ts6i._3RGKj {
-        max-width: 77px;
+    div._aigv._aigw {
+        max-width: 90px;
     }
     div.two._1jJ70 {
         min-width: 100%;
         min-height: 100%;
     }
     /* top box */
-    div._604FD {
+    header._amid {
         display: none;
+    }
+    div.xmbbrlm.x1c4vz4f.x2lah0s.xdl72j9.xso031l.x1q0q8m5.xa93pmm.x10l6tqk.xef1mmm.x17qophe.xds687c.xgkeump.x26u7qi.xy80clv {
+        display:none;
     }
     /* search bar */
     div._3gYev {
