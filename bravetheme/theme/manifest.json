@@ -4,14 +4,14 @@
     "name": "Brave Theme",
     "theme": {
         "colors": {
-        "frame": [4,3,4],
-        "frame_inactive": [4,3,4],
-        "toolbar": [118,57,161],
-        "button_background": [192,192,192],
-        "toolbar_button_icon": [192,192,192],
-        "toolbar_text": [192,192,192],
-        "omnibox_background": [4,3,4],
-        "omnibox_text": [192,192,192]
+        "frame": [66,17,32],
+        "frame_inactive": [66,17,32],
+        "toolbar": [68,158,127],
+        "button_background": [207,195,199],
+        "toolbar_button_icon": [207,195,199],
+        "toolbar_text": [207,195,199],
+        "omnibox_background": [66,17,32],
+        "omnibox_text": [207,195,199]
         }
     }
 }

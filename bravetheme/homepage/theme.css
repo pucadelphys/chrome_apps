@@ -1,15 +1,15 @@
 #time{
-    color: #c0c0c0;
+    color: #cfc3c7;
 }
 .grid > a::after {
-    color: #c0c0c0;
+    color: #cfc3c7;
 }
 input[type="text"] {
-    color: #c0c0c0;
+    color: #cfc3c7;
 }
 ::-webkit-input-placeholder {
-    color: #c0c0c0;
+    color: #cfc3c7;
 }
 .search {
-    border-bottom: 1px solid #c0c0c0;
+    border-bottom: 1px solid #cfc3c7;
 }

@@ -7,7 +7,7 @@ DIR=$(dirname "${BASH_SOURCE[0]}")
 THEME="${DIR}/theme"
 SOURCES="${DIR}/homepage/sources"
 
-[[ -d "${THEME}/Cached Theme.pak" ]] && rm -rf "${THEME}/Cached Theme.pak" 
+[[ -f "${THEME}/Cached Theme.pak" ]] && rm "${THEME}/Cached Theme.pak" 
 
 magick -size 128x128 -define gradient:center=85,35 -define gradient:extent=diagonal -define gradient:radii=90,90 radial-gradient:${color11}-${color1} "${SOURCES}/gradient.png"
 magick "${SOURCES}/mask.png" -alpha off "${SOURCES}/gradient.png" +swap -compose copyalpha -composite "${SOURCES}/favicon.png"
